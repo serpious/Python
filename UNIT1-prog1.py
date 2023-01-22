@@ -1,4 +1,5 @@
-#Factorial of a number
+# Program 1 UNIT 1
+# ASTHA YADAV KMC PHYSICS HONORS
 
 print("Let's find the factorial of a number !")
 n = int(input("Number: "))
