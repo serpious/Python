@@ -1,4 +1,5 @@
-#Program 2
+# Program 2 UNIT 1
+# ASTHA YADAV KMC PHYSICS HONORS
 
 import math as m
 
