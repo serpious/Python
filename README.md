@@ -1,7 +1,8 @@
-# MP Semester 1 Programs
-Assignment file with Python Codes for the "Recommended Programs" in Mathematical Physics in DU by ASTHA YADAV - KIRORIMAL COLLEGE, DU - Physics Honors
+# MP Semester 1 Programs 
+# ASTHA YADAV - KIRORIMAL COLLEGE, DU - Physics Honors
+Assignment file with Python Codes for the "Recommended Programs" in Mathematical Physics in DU
 
-If you copy this at all there will be repurcussions
+**If you copy this at all there will be repurcussions**
 
 INDEX:
 
