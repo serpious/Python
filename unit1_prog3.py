@@ -23,7 +23,7 @@ h = round(h,2)
 r = round(r,2)
 print("\n")
 print(o.capitalize(),"will fly up high till",h,"meters, land",r,"meters far away and take",t,"seconds to do that.\n")
-prompt = str(input("Ready to see the graph for it? Press Enter"))
+prompt = str(input("Ready to see the graph for it?\n\n\tPress Enter "))
 
 # # # graph 
 
